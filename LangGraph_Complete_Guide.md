@@ -16,12 +16,6 @@
 13. [Real-World Use Cases](#real-world-use-cases)
 14. [Getting Started](#getting-started)
 15. [Resources for Learning](#resources-for-learning)
-
-
-
-
-
-
 ---
 
 ## Introduction
