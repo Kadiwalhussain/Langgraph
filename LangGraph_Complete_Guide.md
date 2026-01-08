@@ -191,6 +191,7 @@ graph.add_edge("tools", "agent")
 
 # Compile
 app = graph.compile()
+updating()
 ```
 
 ### 5. Checkpointing
