@@ -20,12 +20,13 @@
 
 ## Introduction
 
-**LangGraph** is a library built on top of LangChain, designed for building **stateful, multi-actor applications** with Large Language Models (LLMs). It provides a framework for creating complex, cyclical workflows that go beyond simple linear chains, enabling developers to build sophisticated AI agents and multi-agent systems.
+**LangGraph** is a library built on top of LangChain, created specifically for building **stateful, multi-actor applications** using Large Language Models (LLMs). It provides a structured framework for designing complex, cyclical workflows that go beyond simple linear chains, allowing developers to build advanced AI agents and multi-agent systems with better control and flexibility.
 
 **Created by:** LangChain (Harrison Chase and team)  
 **First Release:** Late 2023  
 **Current Status:** Actively maintained and rapidly evolving  
-**License:** MIT License  
+**License:** MIT License
+
 
 ---
 
